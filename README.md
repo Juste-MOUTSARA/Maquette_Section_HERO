@@ -5,4 +5,4 @@ Mon site web de la maquette section héro
 ## Apperçu
 
 
-![capture d'écran du site web](./images/capture_ecran_deuxieme_projet.png).
+![capture d'écran du site web](./images/capture_ecran_deuxieme_pojet.png).
